@@ -1,5 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
-security_submit.csv
-security_test.csv
-security_train.csv
+*.csv
+.idea
+*.pkl
+*.pptx
+*.mov
+*.xls
+*.npz
+*.doc
